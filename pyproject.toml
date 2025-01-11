@@ -19,7 +19,8 @@ dependencies = [
     "types-requests>=2.32.0.20241016",
     "langchain-groq>=0.2.1",
     "transformers>=4.46.2",
-    "langchain-google-genai>=2.0.6"
+    "langchain-google-genai>=2.0.6",
+    "langchain-anthropic>=0.3.1",
 ]
 
 
